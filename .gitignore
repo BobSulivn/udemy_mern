@@ -129,5 +129,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Github stuff
 github
 github.pub
+
+# Secret
+secret/
