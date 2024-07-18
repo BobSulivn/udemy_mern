@@ -133,5 +133,5 @@ dist
 github
 github.pub
 
-# Secret
-secret/
+# Keys
+keys.js
